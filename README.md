@@ -44,3 +44,11 @@
 + postman
 + 3-layered-architecture
 + mvc pattern
+
+
+
+## 멘토링 일지
+
+| 주제                      | 일시       | 비고                                                         |
+| ------------------------- | ---------- | ------------------------------------------------------------ |
+| 첫 만남(멘토링 계획 소개) | 2023.03.11 | [멘토링 계획 다운로드](https://drive.google.com/uc?export=download&id=1-_xtyO8OTnUhFhVA5_2NGWNng0VjcxMY) |
